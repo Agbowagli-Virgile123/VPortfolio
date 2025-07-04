@@ -119,7 +119,7 @@ nav a:hover, nav a.active {
 section{
     position: absolute;
     width: 100% ;
-    height: 100%;
+    height: 100vh;
     padding: 10rem 9% 2rem;
     /* background: var(--bg-color); */
     opacity: 0;
