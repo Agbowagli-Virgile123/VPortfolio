@@ -500,11 +500,12 @@ section.active{
 
 .resume-detail.skills .resume-item i{
     font-size: 8.5rem;
+    font-weight: 900;
     transition: .5s;
 }
 
 .resume-detail.skills .resume-item:hover i{
-    color: var(--main-color);
+    color: var(--main-color) !important;
 }
 
 .resume-detail.skills .resume-item span{
